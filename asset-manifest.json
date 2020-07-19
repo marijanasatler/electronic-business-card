@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/electronic-business-card/static/css/main.5f361e03.chunk.css",
-    "main.js": "/electronic-business-card/static/js/main.d25ed730.chunk.js",
-    "main.js.map": "/electronic-business-card/static/js/main.d25ed730.chunk.js.map",
+    "main.css": "/electronic-business-card/static/css/main.a1e57a41.chunk.css",
+    "main.js": "/electronic-business-card/static/js/main.455ecdf3.chunk.js",
+    "main.js.map": "/electronic-business-card/static/js/main.455ecdf3.chunk.js.map",
     "runtime-main.js": "/electronic-business-card/static/js/runtime-main.458bf191.js",
     "runtime-main.js.map": "/electronic-business-card/static/js/runtime-main.458bf191.js.map",
-    "static/js/2.85cc9eb5.chunk.js": "/electronic-business-card/static/js/2.85cc9eb5.chunk.js",
-    "static/js/2.85cc9eb5.chunk.js.map": "/electronic-business-card/static/js/2.85cc9eb5.chunk.js.map",
+    "static/js/2.5f9a911a.chunk.js": "/electronic-business-card/static/js/2.5f9a911a.chunk.js",
+    "static/js/2.5f9a911a.chunk.js.map": "/electronic-business-card/static/js/2.5f9a911a.chunk.js.map",
     "index.html": "/electronic-business-card/index.html",
-    "precache-manifest.ecda35cc521ba7c3d2e4a61e6e62a152.js": "/electronic-business-card/precache-manifest.ecda35cc521ba7c3d2e4a61e6e62a152.js",
+    "precache-manifest.135a7d49a9b18770822f2a0c1067b25b.js": "/electronic-business-card/precache-manifest.135a7d49a9b18770822f2a0c1067b25b.js",
     "service-worker.js": "/electronic-business-card/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/electronic-business-card/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.85cc9eb5.chunk.js.LICENSE.txt": "/electronic-business-card/static/js/2.85cc9eb5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/electronic-business-card/static/media/logo.5d5d9eef.svg"
+    "static/css/main.a1e57a41.chunk.css.map": "/electronic-business-card/static/css/main.a1e57a41.chunk.css.map",
+    "static/js/2.5f9a911a.chunk.js.LICENSE.txt": "/electronic-business-card/static/js/2.5f9a911a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/electronic-business-card/static/media/ITCAvantGardeStdXLt.d682bd66.woff",
+    "static/media/logo1.png": "/electronic-business-card/static/media/logo1.b9e013eb.png",
+    "static/media/App.css": "/electronic-business-card/static/media/logo4.08b5fb76.png",
+    "static/media/logo5.png": "/electronic-business-card/static/media/logo5.f290cfdc.png",
+    "static/media/logo6.png": "/electronic-business-card/static/media/logo6.34b70dba.png",
+    "static/media/logo7.png": "/electronic-business-card/static/media/logo7.1b6e4bfc.png",
+    "static/media/logo9.png": "/electronic-business-card/static/media/logo9.48bc73f0.png",
+    "static/media/marijanalogo.png": "/electronic-business-card/static/media/marijanalogo.762c80dd.png",
+    "static/media/profileimage.jpg": "/electronic-business-card/static/media/profileimage.3f61c6f6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.458bf191.js",
-    "static/js/2.85cc9eb5.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d25ed730.chunk.js"
+    "static/js/2.5f9a911a.chunk.js",
+    "static/css/main.a1e57a41.chunk.css",
+    "static/js/main.455ecdf3.chunk.js"
   ]
 }
