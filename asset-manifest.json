@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/electronic-business-card/static/css/main.5f361e03.chunk.css",
+    "main.js": "/electronic-business-card/static/js/main.d25ed730.chunk.js",
+    "main.js.map": "/electronic-business-card/static/js/main.d25ed730.chunk.js.map",
+    "runtime-main.js": "/electronic-business-card/static/js/runtime-main.458bf191.js",
+    "runtime-main.js.map": "/electronic-business-card/static/js/runtime-main.458bf191.js.map",
+    "static/js/2.85cc9eb5.chunk.js": "/electronic-business-card/static/js/2.85cc9eb5.chunk.js",
+    "static/js/2.85cc9eb5.chunk.js.map": "/electronic-business-card/static/js/2.85cc9eb5.chunk.js.map",
+    "index.html": "/electronic-business-card/index.html",
+    "precache-manifest.ecda35cc521ba7c3d2e4a61e6e62a152.js": "/electronic-business-card/precache-manifest.ecda35cc521ba7c3d2e4a61e6e62a152.js",
+    "service-worker.js": "/electronic-business-card/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/electronic-business-card/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.85cc9eb5.chunk.js.LICENSE.txt": "/electronic-business-card/static/js/2.85cc9eb5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/electronic-business-card/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.458bf191.js",
+    "static/js/2.85cc9eb5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d25ed730.chunk.js"
+  ]
+}
