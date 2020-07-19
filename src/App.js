@@ -16,7 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+        ELECTRONIC BUSINESS CARD
+      
         </a>
       </header>
     </div>
