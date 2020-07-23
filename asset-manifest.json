@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/electronic-business-card/static/css/main.a1e57a41.chunk.css",
-    "main.js": "/electronic-business-card/static/js/main.455ecdf3.chunk.js",
-    "main.js.map": "/electronic-business-card/static/js/main.455ecdf3.chunk.js.map",
+    "main.css": "/electronic-business-card/static/css/main.dd9ef21b.chunk.css",
+    "main.js": "/electronic-business-card/static/js/main.a3eeae10.chunk.js",
+    "main.js.map": "/electronic-business-card/static/js/main.a3eeae10.chunk.js.map",
     "runtime-main.js": "/electronic-business-card/static/js/runtime-main.458bf191.js",
     "runtime-main.js.map": "/electronic-business-card/static/js/runtime-main.458bf191.js.map",
-    "static/js/2.5f9a911a.chunk.js": "/electronic-business-card/static/js/2.5f9a911a.chunk.js",
-    "static/js/2.5f9a911a.chunk.js.map": "/electronic-business-card/static/js/2.5f9a911a.chunk.js.map",
+    "static/js/2.8479c168.chunk.js": "/electronic-business-card/static/js/2.8479c168.chunk.js",
+    "static/js/2.8479c168.chunk.js.map": "/electronic-business-card/static/js/2.8479c168.chunk.js.map",
     "index.html": "/electronic-business-card/index.html",
-    "precache-manifest.135a7d49a9b18770822f2a0c1067b25b.js": "/electronic-business-card/precache-manifest.135a7d49a9b18770822f2a0c1067b25b.js",
+    "precache-manifest.49e592dec2c5ba4cc7575d6573b7b8e6.js": "/electronic-business-card/precache-manifest.49e592dec2c5ba4cc7575d6573b7b8e6.js",
     "service-worker.js": "/electronic-business-card/service-worker.js",
-    "static/css/main.a1e57a41.chunk.css.map": "/electronic-business-card/static/css/main.a1e57a41.chunk.css.map",
-    "static/js/2.5f9a911a.chunk.js.LICENSE.txt": "/electronic-business-card/static/js/2.5f9a911a.chunk.js.LICENSE.txt",
+    "static/css/main.dd9ef21b.chunk.css.map": "/electronic-business-card/static/css/main.dd9ef21b.chunk.css.map",
+    "static/js/2.8479c168.chunk.js.LICENSE.txt": "/electronic-business-card/static/js/2.8479c168.chunk.js.LICENSE.txt",
     "static/media/index.css": "/electronic-business-card/static/media/ITCAvantGardeStdXLt.d682bd66.woff",
     "static/media/logo1.png": "/electronic-business-card/static/media/logo1.b9e013eb.png",
     "static/media/App.css": "/electronic-business-card/static/media/logo4.08b5fb76.png",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.458bf191.js",
-    "static/js/2.5f9a911a.chunk.js",
-    "static/css/main.a1e57a41.chunk.css",
-    "static/js/main.455ecdf3.chunk.js"
+    "static/js/2.8479c168.chunk.js",
+    "static/css/main.dd9ef21b.chunk.css",
+    "static/js/main.a3eeae10.chunk.js"
   ]
 }

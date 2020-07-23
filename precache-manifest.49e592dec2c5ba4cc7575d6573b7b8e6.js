@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51253bcb8a8c229f828e1427ff41e805",
+    "revision": "b4614e03004a1a4e39c6f41ce12b242b",
     "url": "/electronic-business-card/index.html"
   },
   {
-    "revision": "f469f04a1e89aa62257b",
-    "url": "/electronic-business-card/static/css/main.a1e57a41.chunk.css"
+    "revision": "9600943b6ff884d3a58d",
+    "url": "/electronic-business-card/static/css/main.dd9ef21b.chunk.css"
   },
   {
-    "revision": "dc84ba49184a7740a612",
-    "url": "/electronic-business-card/static/js/2.5f9a911a.chunk.js"
+    "revision": "0fa7bace42bb84c77b9e",
+    "url": "/electronic-business-card/static/js/2.8479c168.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/electronic-business-card/static/js/2.5f9a911a.chunk.js.LICENSE.txt"
+    "url": "/electronic-business-card/static/js/2.8479c168.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f469f04a1e89aa62257b",
-    "url": "/electronic-business-card/static/js/main.455ecdf3.chunk.js"
+    "revision": "9600943b6ff884d3a58d",
+    "url": "/electronic-business-card/static/js/main.a3eeae10.chunk.js"
   },
   {
     "revision": "454992f9639403bea9b6",
