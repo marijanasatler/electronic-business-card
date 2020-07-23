@@ -1,6 +1,6 @@
 import React from 'react';
 import './contact.scss';
-import {Link} from 'react-router-dom';
+
 
 
 
@@ -22,7 +22,7 @@ const ContactEn=()=>(
      <div className='cinfo'>
     <div> 
       If you interested for my CV you can download it  <br/>
-     <h3><Link className='download-info'  to="/filipboskovic-cv.pdf" target="_blank" download>Download here</Link></h3> 
+     <h3><a className='download-info'  href="filipboskovic-cv.pdf" target="_blank" download>Download here</a></h3> 
       </div>
     </div>
     </div>

@@ -1,21 +1,32 @@
 import React from 'react';
-import {BrowserRouter as Router, Route} from 'react-router-dom';
-import NavbarEn from '../components/nav-components/navbar-en';
 import IntroductionEn from '../components/introduction-coomponents/introduction-en';
 import ContactEn from '../components//contact-components/contact-en';
 import TextBarEn from '../components/textbar-components/textbar-en';
+import './homepage.scss';
 
 
-const HomePageEnglish =()=>(
-   < Router>
-    <div>
-    <NavbarEn/>
-    <TextBarEn/>
-         <Route exact path='/en' component={IntroductionEn} />
-        <Route exact path='/contact' component={ContactEn} />
-  
-    </div>
-    </Router>
-);
+class HomePageEnglish extends React.Component{
+    state={
+        visible:true
+    }
+    
+        render(){
+        return (
+    
+            <div>
+                <div className='navbar'>
+        <div className='butn'>
+                <button className='but' onClick={()=>{ this.setState({visible:true});} }>
+            About me
+        </button><button className='but' onClick={()=>{ this.setState({visible:false});} } >Contact</button>
+        </div></div>
+                <TextBarEn/>
+    {  this.state.visible ? <IntroductionEn/> : <ContactEn/>}
+    
+    
+            </div>
+    
+    );
+    }}
 
 export default HomePageEnglish;

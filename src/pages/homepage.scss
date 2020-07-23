@@ -1,0 +1,29 @@
+.navbar{
+    height: auto;
+    width: 100%;
+   display: flex;
+   justify-content: space-between;
+  
+    
+  .butn{
+    justify-content: flex-start;
+    margin-left:10px;
+    margin-top: 0.5%;
+  }
+   .but{
+     margin-left:10px;
+     margin-right: 10px;
+     cursor: pointer;
+     color:white ;
+     font-weight: 600;
+     text-decoration: none;
+     background-color: transparent;
+     border: none;
+     font-family:'ITC Avant Garde Gothic Std Extra Light';
+     font-size: 18px;
+     outline: none;
+    
+   }
+  
+  
+  }
