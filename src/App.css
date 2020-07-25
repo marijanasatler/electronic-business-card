@@ -5,7 +5,7 @@
 
   background-position: center right ;
   background-repeat: no-repeat;
-
+ 
 
 }
 .margine {
@@ -15,3 +15,15 @@
  
 }
 
+@media screen and (max-width: 650px) {
+ .App{
+  background-image: url(./images/logo4.png );
+  text-align: center;
+  background-size:150px;
+
+  background-position:  top right ;
+  background-repeat: no-repeat;
+ 
+  
+  }
+}
