@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/electronic-business-card/static/css/main.9d13ed46.chunk.css",
-    "main.js": "/electronic-business-card/static/js/main.1151719b.chunk.js",
-    "main.js.map": "/electronic-business-card/static/js/main.1151719b.chunk.js.map",
+    "main.js": "/electronic-business-card/static/js/main.765fb8ff.chunk.js",
+    "main.js.map": "/electronic-business-card/static/js/main.765fb8ff.chunk.js.map",
     "runtime-main.js": "/electronic-business-card/static/js/runtime-main.458bf191.js",
     "runtime-main.js.map": "/electronic-business-card/static/js/runtime-main.458bf191.js.map",
     "static/js/2.8479c168.chunk.js": "/electronic-business-card/static/js/2.8479c168.chunk.js",
     "static/js/2.8479c168.chunk.js.map": "/electronic-business-card/static/js/2.8479c168.chunk.js.map",
     "index.html": "/electronic-business-card/index.html",
-    "precache-manifest.f5d60770a2459df6e67d17a3348fac4f.js": "/electronic-business-card/precache-manifest.f5d60770a2459df6e67d17a3348fac4f.js",
+    "precache-manifest.e5c54e4ff3f05bbc392843ca0fd1b038.js": "/electronic-business-card/precache-manifest.e5c54e4ff3f05bbc392843ca0fd1b038.js",
     "service-worker.js": "/electronic-business-card/service-worker.js",
     "static/css/main.9d13ed46.chunk.css.map": "/electronic-business-card/static/css/main.9d13ed46.chunk.css.map",
     "static/js/2.8479c168.chunk.js.LICENSE.txt": "/electronic-business-card/static/js/2.8479c168.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.458bf191.js",
     "static/js/2.8479c168.chunk.js",
     "static/css/main.9d13ed46.chunk.css",
-    "static/js/main.1151719b.chunk.js"
+    "static/js/main.765fb8ff.chunk.js"
   ]
 }
