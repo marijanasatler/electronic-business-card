@@ -1,13 +1,13 @@
 .footer-component{
    
-   /* position: fixed;
+    position: relative;
     left: 0;
     bottom: 0;
-    width: 100%;*/
+    width: 100%;
 
     opacity: 80%;
     color: white;
-    font-size:15px;
+    font-size:14px;
     text-align: center;
 
  
@@ -16,4 +16,10 @@
     
    }
    
+}
+
+@media screen and (max-width: 650px) {
+    .footer-component{
+        font-size: xx-small;
+    }
 }
