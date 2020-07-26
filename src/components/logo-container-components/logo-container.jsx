@@ -1,10 +1,10 @@
 import React from 'react';
 import './logo-container.scss';
-
+import FooterComponent from '../footer-components/footer';
 
 
 const LogoContainer =()=>(
-
+<div>
     <div className='logo-icons' > 
     <div className='tooltip'>
     <img className='img-logo'  src={require('../../images/logo1.png')} alt='logo-img'  />
@@ -27,7 +27,8 @@ const LogoContainer =()=>(
     <span className="tooltiptext">DeFi -Decentralized Finance</span>
     </div>
     </div>
-
+    <FooterComponent/>
+    </div>
    
 );
 
