@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "50a01034d9fc477cd0e59887321e361f",
+    "revision": "2be9209ffb5646f3e6baa4c25c9b9f7d",
     "url": "/electronic-business-card/index.html"
   },
   {
-    "revision": "7f40aa54fe33c3262c7f",
-    "url": "/electronic-business-card/static/css/main.ef014914.chunk.css"
+    "revision": "a2e4338aeea29d4375d3",
+    "url": "/electronic-business-card/static/css/main.a589be80.chunk.css"
   },
   {
     "revision": "0fa7bace42bb84c77b9e",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/electronic-business-card/static/js/2.8479c168.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7f40aa54fe33c3262c7f",
+    "revision": "a2e4338aeea29d4375d3",
     "url": "/electronic-business-card/static/js/main.01c4860d.chunk.js"
   },
   {
